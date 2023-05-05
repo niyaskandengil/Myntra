@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Myntra | Online Fashion Strore - Ultimate Fashion Destination</title>
+    <link rel="stylesheet" href="./mynta.css">
+    <link rel="stylesheet" href="../fontawesome/css/all.css">
+    <link rel="icon" href="./img/Myntra-logo.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+        integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <header>
+        <section class="nav">
+            <article>
+                <div class="logo">
+                    <img src="img/Myntra-logo2.png" alt="logo">
+                </div>
+                <div class="menu">
+                    <ol>
+                        <li><a href="https://www.myntra.com/shop/men">MEN</a></li>
+                        <li><a href="https://www.myntra.com/shop/women">WOMEN</a></li>
+                        <li><a href="https://www.myntra.com/shop/kids">KIDS</a></li>
+                        <li><a href="https://www.myntra.com/shop/home-living">HOME & LIVING</a></li>
+                        <li><a href="https://www.myntra.com/personal-care">BEAUTY</a></li>
+                        <li><a href="https://www.myntra.com/studio/home">STUDIO <sup id="new">NEW</sup></a></li>
+                    </ol>
+                </div>
+                <div class="search">
+                    <article>
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                        <input type="text" placeholder="Search for products,brands and more...">
+                    </article>
+                </div>
+
+                <div class="settings">
+                    <div>
+                        <a href="https://www.myntra.com/wishlist"><i class="fa-regular fa-user"></i>
+                            <p>Profile</p>
+                         </a>
+                        
+                    </div>
+                    <div>
+                        
+                        <a href="https://www.myntra.com/wishlist"><i class="fa-regular fa-heart"></i></i>
+                            <p>Cart</p>
+                         </a>
+                    </div>
+                    <div>
+                        <a href="https://www.myntra.com/checkout/cart"><i class="fa-solid fa-cart-shopping"></i>
+                           <p>Cart</p>
+                        </a>
+                    </div>
+                </div>
+            </article>
+        </section>
+        <section class="rep">
+            <div id="slider">
+                <figure>
+                    <a href=""><img src="img/Poster/poster1.png"></a>
+                    <a href=""><img src="img/Poster/poster2.png"></a>
+                    <a href=""><img src="img/Poster/poster3.png"></a>
+                </figure>
+            </div>
+        </section>
+        <section class="banner1">
+            <div>
+                <a href="http://www.myntra.com/shop/crazy-deals"><img src="img/banner001.webp" alt="OMG-Deals"></a>
+            </div>
+        </section>
+        <!--Table-->
+
+        <section class="table">
+            <table align="center" cellpadding="5px" cellspacing="0px">
+                <tr>
+                    <td><a href="#"><img src="img/Table/1.webp" alt=""></a></td>
+                    <td rowspan="3"><a href="#"><img src="img/Table/9.png" alt=""></td>
+                    <td><a href="#"><img src="img/Table/2.webp" alt=""></a></td>
+                </tr>
+                <tr>
+                    <td><a href="#"><img src="img/Table/3.webp" alt=""></a></td>
+
+                    <td><a href="#"><img src="img/Table/44.png" alt=""></a></td>
+                </tr>
+                <tr>
+                    <td><a href="#"><img src="img/Table/5.webp" alt=""></a></td>
+
+                    <td><a href="#"><img src="img/Table/6.webp" alt=""></a></td>
+                </tr>
+            </table>
+        </section>
+
+        <section class="banner3">
+            <div>
+                <a href="http://www.myntra.com/shop/crazy-deals"><img src="img/omg001.webp" alt="OMG-Deals"></a>
+            </div>
+        </section>
+        <section class="imgSection1">
+            <div class="sect1">
+                <a href=""><img src="./img/OMG/1.webp" alt="imgSection1"></a>
+                <a
+                    href="https://www.myntra.com/myntra?f=Brand%3ARoadster%2CRoadster%20Fast%20and%20Furious%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A149.0_147600.0_149.0%20TO%20147600.0&sort=price_asc"><img
+                        src="./img/OMG/2.webp" alt="imgSection2"></a>
+                <a href=""><img src="./img/OMG/3.webp" alt="imgSection3"></a>
+                <a href=""><img src="./img/OMG/8.webp" alt="imgSection4"></a>
+                <a href=""><img src="./img/OMG/5.webp" alt="imgSection5"></a>
+                <a href=""><img src="./img/OMG/6.webp" alt="imgSection6"></a>
+                <a href=""><img src="./img/OMG/7.webp" alt="imgSection7"></a>
+                <a href=""><img src="./img/OMG/8.webp" alt="imgSection8"></a>
+                <a href=""><img src="./img/OMG/9.webp" alt="imgSection9"></a>
+                <a href=""><img src="./img/OMG/10.webp" alt="imgSection10"></a>
+            </div>
+            <div class="sect2">
+                <a href=""><img src="./img/OMG/11.webp" alt="imgSection11"></a>
+                <a href=""><img src="./img/OMG/12.webp" alt="imgSection12"></a>
+                <a href=""><img src="./img/OMG/13.webp" alt="imgSection13"></a>
+                <a href=""><img src="./img/OMG/14.webp" alt="imgSection14"></a>
+                <a href=""><img src="./img/OMG/15.webp" alt="imgSection15"></a>
+                <a href=""><img src="./img/OMG/16.webp" alt="imgSection16"></a>
+                <a href=""><img src="./img/OMG/17.webp" alt="imgSection17"></a>
+                <a href=""><img src="./img/OMG/18.webp" alt="imgSection18"></a>
+                <a href=""><img src="./img/OMG/19.webp" alt="imgSection19"></a>
+                <a href=""><img src="./img/OMG/20.webp" alt="imgSection20"></a>
+            </div>
+        </section>
+        <section class="granddeals">
+            <div>
+                <a href="http://www.myntra.com/"><img
+                        src="img/e78ea5f5-8bcc-43e2-afce-529b95a166081673517538108-Grand-Brands.webp"
+                        alt="OMG-Deals"></a>
+            </div>
+        </section>
+        <section class="imgSection2">
+            <div class="sect1">
+                <a href=""><img src="./img/OMG/21.webp" alt="imgSection1"></a>
+                <a href=""><img src="./img/OMG/22.webp" alt="imgSection2"></a>
+                <a href=""><img src="./img/OMG/23.webp" alt="imgSection3"></a>
+                <a href=""><img src="./img/OMG/24.webp" alt="imgSection4"></a>
+                <a href=""><img src="./img/OMG/25.webp" alt="imgSection5"></a>
+                <a href=""><img src="./img/OMG/26.webp" alt="imgSection6"></a>
+                <a href=""><img src="./img/OMG/27.webp" alt="imgSection7"></a>
+                <a href=""><img src="./img/OMG/28.webp" alt="imgSection8"></a>
+                <a href=""><img src="./img/OMG/29.webp" alt="imgSection9"></a>
+                <a href=""><img src="./img/OMG/30.webp" alt="imgSection10"></a>
+            </div>
+            <div class="sect2">
+                <a href=""><img src="./img/OMG/31.webp" alt="imgSection11"></a>
+                <a href=""><img src="./img/OMG/32.webp" alt="imgSection12"></a>
+                <a href=""><img src="./img/OMG/33.webp" alt="imgSection13"></a>
+                <a href=""><img src="./img/OMG/34.webp" alt="imgSection14"></a>
+                <a href=""><img src="./img/OMG/35.webp" alt="imgSection15"></a>
+                <a href=""><img src="./img/OMG/36.webp" alt="imgSection16"></a>
+                <a href=""><img src="./img/OMG/37.webp" alt="imgSection17"></a>
+                <a href=""><img src="./img/OMG/38.webp" alt="imgSection18"></a>
+                <a href=""><img src="./img/OMG/39.webp" alt="imgSection19"></a>
+                <a href=""><img src="./img/OMG/40.webp" alt="imgSection20"></a>
+            </div>
+        </section>
+        <section class="brandtobag">
+            <div>
+                <a href="http://www.myntra.com/"><img
+                        src="img/1c508dcd-ee9f-4485-81a5-71d97bf512e31673517538088-Brands-To-Bag.webp"
+                        alt="OMG-Deals"></a>
+            </div>
+        </section>
+        <section class="imgSection3">
+            <div class="sect1">
+                <a href=""><img src="./img/OMG/BrandToBag/1.webp" alt="imgSection1"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/2.webp" alt="imgSection2"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/3.webp" alt="imgSection3"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/4.webp" alt="imgSection4"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/5.webp" alt="imgSection5"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/6.webp" alt="imgSection6"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/7.webp" alt="imgSection7"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/8.webp" alt="imgSection8"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/9.webp" alt="imgSection9"></a>
+            </div>
+            <div class="sect2">
+                <a href=""><img src="./img/OMG/BrandToBag/10.webp" alt="imgSection11"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/11.webp" alt="imgSection12"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/12.webp" alt="imgSection13"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/13.webp" alt="imgSection14"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/14.webp" alt="imgSection15"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/15.webp" alt="imgSection16"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/16.webp" alt="imgSection17"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/17.webp" alt="imgSection18"></a>
+                <a href=""><img src="./img/OMG/BrandToBag/18.webp" alt="imgSection19"></a>
+            </div>
+        </section>
+        <section class="budgetbags">
+            <div>
+                <a href="http://www.myntra.com/"><img src="img/Budget-Buys.webp" alt="OMG-Deals"></a>
+            </div>
+        </section>
+        <section class="imgSection4">
+            <div class="sect1">
+                <a href=""><img src="./img/budget/1.webp" alt="imgSection1"></a>
+                <a href=""><img src="./img/budget/2.webp" alt="imgSection2"></a>
+                <a href=""><img src="./img/budget/3.webp" alt="imgSection3"></a>
+                <a href=""><img src="./img/budget/4.webp" alt="imgSection4"></a>
+                <a href=""><img src="./img/budget/5.webp" alt="imgSection5"></a>
+                <a href=""><img src="./img/budget/6.webp" alt="imgSection6"></a>
+                <a href=""><img src="./img/budget/7.webp" alt="imgSection7"></a>
+                <a href=""><img src="./img/budget/8.webp" alt="imgSection8"></a>
+
+            </div>
+            <div class="sect2">
+                <a href=""><img src="./img/budget/9.webp" alt="imgSection11"></a>
+                <a href=""><img src="./img/budget/10.webp" alt="imgSection12"></a>
+                <a href=""><img src="./img/budget/11.webp" alt="imgSection13"></a>
+                <a href=""><img src="./img/budget/12.webp" alt="imgSection14"></a>
+                <a href=""><img src="./img/budget/13.webp" alt="imgSection15"></a>
+                <a href=""><img src="./img/budget/14.webp" alt="imgSection16"></a>
+                <a href=""><img src="./img/budget/15.webp" alt="imgSection17"></a>
+                <a href=""><img src="./img/budget/16.webp" alt="imgSection18"></a>
+
+            </div>
+        </section>
+        <section class="category">
+            <div>
+                <a href="http://www.myntra.com/"><img src="img/category.webp" alt="OMG-Deals"></a>
+            </div>
+        </section>
+        <section class="imgSection5">
+            <div class="sect1">
+                <a href=""><img src="./img/category/1.png" alt="imgSection1"></a>
+                <a href=""><img src="./img/category/2.png" alt="imgSection2"></a>
+                <a href=""><img src="./img/category/3.png" alt="imgSection3"></a>
+                <a href=""><img src="./img/category/4.png" alt="imgSection4"></a>
+                <a href=""><img src="./img/category/5.png" alt="imgSection5"></a>
+                <a href=""><img src="./img/category/6.png" alt="imgSection6"></a>
+            </div>
+
+            <div class="sect2">
+                <a href=""><img src="./img/category/7.png" alt="imgSection11"></a>
+                <a href=""><img src="./img/category/8.png" alt="imgSection12"></a>
+                <a href=""><img src="./img/category/9.png" alt="imgSection13"></a>
+                <a href=""><img src="./img/category/10.png" alt="imgSection14"></a>
+                <a href=""><img src="./img/category/11.png" alt="imgSection15"></a>
+                <a href=""><img src="./img/category/12.png" alt="imgSection16"></a>
+            </div>
+
+            <div class="sect3">
+                <a href=""><img src="./img/category/13.png" alt="imgSection1"></a>
+                <a href=""><img src="./img/category/14.png" alt="imgSection2"></a>
+                <a href=""><img src="./img/category/15.png" alt="imgSection3"></a>
+                <a href=""><img src="./img/category/16.png" alt="imgSection4"></a>
+                <a href=""><img src="./img/category/17.png" alt="imgSection5"></a>
+                <a href=""><img src="./img/category/18.png" alt="imgSection6"></a>
+            </div>
+
+            <div class="sect4">
+                <a href=""><img src="./img/category/19.png" alt="imgSection1"></a>
+                <a href=""><img src="./img/category/20.png" alt="imgSection2"></a>
+                <a href=""><img src="./img/category/21.png" alt="imgSection3"></a>
+                <a href=""><img src="./img/category/22.png" alt="imgSection4"></a>
+                <a href=""><img src="./img/category/23.png" alt="imgSection5"></a>
+                <a href=""><img src="./img/category/24.png" alt="imgSection6"></a>
+            </div>
+
+            <div class="sect5">
+                <a href=""><img src="./img/category/25.png" alt="imgSection1"></a>
+                <a href=""><img src="./img/category/26.png" alt="imgSection2"></a>
+                <a href=""><img src="./img/category/27.png" alt="imgSection3"></a>
+                <a href=""><img src="./img/category/28.png" alt="imgSection4"></a>
+                <a href=""><img src="./img/category/29.png" alt="imgSection5"></a>
+                <a href=""><img src="./img/category/30.png" alt="imgSection6"></a>
+            </div>
+
+            <div class="sect6">
+                <a href=""><img src="./img/category/31.png" alt="imgSection1"></a>
+                <a href=""><img src="./img/category/32.png" alt="imgSection2"></a>
+
+            </div>
+        </section>
+
+        <!-- <p class="FreeShippingBanner-sidebar-content">FLAT ₹400 OFF</p> -->
+        <section class="banner2">
+            <div>
+                <a href="http://www.myntra.com/shop/crazy-deals"><img src="img/gif001.gif" alt="OMG-Deals"></a>
+            </div>
+        </section>
+    </header>
+    <footer>
+        <section class="footer">
+            <article>
+                <div class="Onlineshop">
+                    <ol>
+                        <li id="list1">ONLINE SHOPPING</li>
+                        <li><a href="">Men</a></li>
+                        <li><a href="">Women</a></li>
+                        <li><a href="">Kids</a></li>
+                        <li><a href="">Home&Living</a></li>
+                        <li><a href="">Beauty</a></li>
+                        <li><a href="">Gift Card</a></li>
+                        <li><a href="">Myntra Insider</a></li>
+                    </ol>
+                    <ol>
+                        <li id="list2">USEFULL LINKS</li>
+                        <li><a href="">Blog</a></li>
+                        <li><a href="">Careers</a></li>
+                        <li><a href="">Site Map</a></li>
+                        <li><a href="">Corporate Information</a></li>
+                        <li><a href="">Whitehat</a></li>
+                    </ol>
+                </div>
+                <div class="customerpolicy">
+                    <ol>
+                        <li id="list3">CUSTOMER POLICIES</li>
+                        <li><a href="">Contact Us</a></li>
+                        <li><a href="">FAQ</a></li>
+                        <li><a href="">T&C</a></li>
+                        <li><a href="">Terms Of Use</a></li>
+                        <li><a href="">Track Orders</a></li>
+                        <li><a href="">Shipping</a></li>
+                        <li><a href="">Cancellation</a></li>
+                        <li><a href="">Returns</a></li>
+                        <li><a href="">Privacy policy</a></li>
+                        <li><a href="">Grievance Officer</a></li>
+                    </ol>
+                </div>
+                <div class="exp">
+                    <ol class="a">
+                        <li id="list4">EXPERIENCE MYNTRA APP ON MOBILE</li>
+                        <li id="img4"><img src="img/Googleplay.png" alt=""><img src="img/Appstore.png" alt=""></li>
+                    </ol>
+                    <ol class="kt">
+                        <li id="list4">KEEP IN TOUCH</li>
+                    </ol>
+                    <div>
+                        <ol class="logo">
+                            <li><a href=""><img src="./img/fblogo.png" alt=""></a></li>
+                            <li><a href=""><img src="./img/twitterlogo.png" alt=""></a></li>
+                            <li><a href=""><img src="./img/ytlogo.png" alt=""></a></li>
+                            <li><a href=""><img src="./img/instalogo.png" alt=""></a></li>
+                        </ol>
+                    </div>  
+                </div>
+                <div class="Orginal">
+                    <ol>
+                        <li><img src="img/orginal.png" alt="" srcset=""></li>
+                        <li><b>100% ORIGINAL </b>guarantee for all products at myntra.com</li>
+                    </ol>
+                    <ol>
+                        <li><img src="img/30days.png" alt=""></li>
+                        <li><b>           Return within 30days</b> of receiving your order</li>
+                    </ol>
+                </div>
+            </article>
+        </section> 
+    </footer>
+
+
+</body>
+
+</html>
